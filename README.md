@@ -12,8 +12,8 @@
 表现————外观样式————css  
 行为————交互效果————JavaScript  
 # web语法
-《html》/html，<body></body>双标签成对出现  
-<br/>单标签  
+html /html，<body></body>双标签成对出现  
+br/ 单标签  
 html————根标签  
 head————头部标签  
 title————文档的标题  
