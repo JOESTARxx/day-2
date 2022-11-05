@@ -18,5 +18,16 @@ html————根标签
 head————头部标签  
 title————文档的标题  
 body————网页的主题
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的第一个网页</title>
+</head>
+<body>
+     拼搏百日我要进蛋协！！！！
+</body>
+</html>
 
