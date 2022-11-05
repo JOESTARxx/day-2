@@ -12,5 +12,5 @@
 表现————外观样式————css  
 行为————交互效果————JavaScript  
 # web语法
-《html》/html，&#60body></body>双标签成对出现  
+《html》/html，<body></body>双标签成对出现  
 <br/>单标签  
